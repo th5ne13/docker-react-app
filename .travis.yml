@@ -14,4 +14,3 @@ script:
 
 after_success:
   - echo "Test Success"
-  - echo "final Test"
